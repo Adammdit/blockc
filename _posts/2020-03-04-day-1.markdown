@@ -1,0 +1,21 @@
+---
+layout: post
+title:  Westport - Day 1
+date:   2020-03-04 19:07:03 +0000
+image:  '/images/setup_01.jpg'
+tags:   Setup
+---
+Something 1
+
+### Title 1
+Some text
+
+
+![Description]({{site.baseurl}}/images/setup_03.jpg)
+*Description*
+
+![Description]({{site.baseurl}}/images/setup_04.jpg)
+*Description*
+
+![Description]({{site.baseurl}}/images/setup_05.jpg)
+*Description*

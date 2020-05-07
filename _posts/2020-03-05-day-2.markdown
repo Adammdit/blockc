@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Westport - Day 2
+date:   2020-03-05
+image:  '/images/drums_01.jpg'
+tags:   Drums
+---
+Something 1
+
+### Title 1
+Some text
+

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Westport - Day 3
+date:   2020-03-06
+image:  '/images/bass_01.jpg'
+tags:   Bass
+---
+Something 1
+
+### Title 1
+Some text

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  Westport - Day 6
+date:   2020-03-09
+image:  '/images/vocal_01.jpg'
+tags:   Vocals
+---
+Something 1
+
+### Title 1
+Some text
+
+![Description]({{site.baseurl}}/images/vocal_02.jpg)
+*Vocals*
