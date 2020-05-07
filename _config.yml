@@ -92,4 +92,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-theme: jekyll-theme-midnight
+remote_theme: adammdit/blockc
