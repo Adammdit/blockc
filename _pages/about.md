@@ -14,4 +14,3 @@ Hi, we are Blockc band. We need to introduce the band here. We need better pictu
 *Crazy jam*
 
 More text here & sample video ...
-<p><iframe src="videos/crazy_jam.mp4" frameborder="0" allowfullscreen></iframe></p>
