@@ -10,6 +10,12 @@ Something 1
 ### Title 1
 Some text
 
+![First steps on the beach]({{site.baseurl}}/images/westport_07.jpg)
+*First toilet selfie*
+
+![First steps on the beach]({{site.baseurl}}/images/westport_08.jpg)
+*More magical moments...*
+
 ![First steps on the beach]({{site.baseurl}}/images/westport_03.jpg)
 *First steps on the beach*
 

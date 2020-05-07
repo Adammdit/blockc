@@ -9,3 +9,6 @@ Something 1
 
 ### Title 1
 Some text
+
+![Description]({{site.baseurl}}/images/bass_02.jpg)
+*Some bass take*

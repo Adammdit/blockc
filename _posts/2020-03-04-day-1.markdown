@@ -19,3 +19,6 @@ Some text
 
 ![Description]({{site.baseurl}}/images/setup_05.jpg)
 *Description*
+
+![Description]({{site.baseurl}}/images/setup_06.jpg)
+*Description*

@@ -9,3 +9,12 @@ Something 1
 
 ### Title 1
 Some text
+
+![Description]({{site.baseurl}}/images/guitar_02.jpg)
+*Jason's turn*
+
+![Description]({{site.baseurl}}/images/guitar_03.jpg)
+*Andy is not so sure anymore*
+
+![Description]({{site.baseurl}}/images/guitar_03.jpg)
+*Interesting cooling solution...*
