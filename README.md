@@ -1,6 +1,6 @@
-# Aditu
+# BlockC
 
-Aditu is a stylish and modern dark theme with a clean and unique design, this theme is created for those who want to share their stories quickly and easily, as well as provide your readers with an unforgettable experience of viewing content.
+Page based of Aditu template. 
 
 * * *
 
