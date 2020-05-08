@@ -5,7 +5,13 @@ date:   2020-03-08
 image:  '/images/piano_01.jpg'
 tags:   Piano
 ---
-Something 1
 
-### Title 1
-Some text
+***
+
+## *<span style="color:#6e9cbf;">Videos</span>*
+
+
+## *<span style="color:#6e9cbf;">Some pictures</span>*
+
+
+***

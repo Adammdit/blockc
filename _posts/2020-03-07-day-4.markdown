@@ -5,16 +5,21 @@ date:   2020-03-07
 image:  '/images/guitar_01.jpg'
 tags:   Guitars
 ---
-Something 1
 
-### Title 1
-Some text
+***
 
+## *<span style="color:#6e9cbf;">Videos</span>*
+<p><iframe src="/images/videos/guitar_01.mp4" frameborder="0" allowfullscreen></iframe></p>
+*Crazy jam*
+
+## *<span style="color:#6e9cbf;">Some pictures</span>*
 ![Description]({{site.baseurl}}/images/guitar_02.jpg)
 *Jason's turn*
 
 ![Description]({{site.baseurl}}/images/guitar_03.jpg)
 *Andy is not so sure anymore*
 
-![Description]({{site.baseurl}}/images/guitar_03.jpg)
+![Description]({{site.baseurl}}/images/guitar_04.jpg)
 *Interesting cooling solution...*
+
+***

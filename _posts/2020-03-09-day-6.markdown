@@ -5,10 +5,15 @@ date:   2020-03-09
 image:  '/images/vocal_01.jpg'
 tags:   Vocals
 ---
-Something 1
 
-### Title 1
-Some text
+***
 
+## *<span style="color:#6e9cbf;">Videos</span>*
+<p><iframe src="/images/videos/vocal_01.mp4" frameborder="0" allowfullscreen></iframe></p>
+*Checkout girl - sound check*
+
+## *<span style="color:#6e9cbf;">Some pictures</span>*
 ![Description]({{site.baseurl}}/images/vocal_02.jpg)
 *Uncomfortable?*
+
+***

@@ -5,20 +5,27 @@ date:   2020-03-04 19:07:03 +0000
 image:  '/images/setup_01.jpg'
 tags:   Setup
 ---
-Something 1
 
-### Title 1
-Some text
+***
 
+## *<span style="color:#6e9cbf;">Videos</span>*
+
+<p><iframe src="/images/videos/setup_01.mp4" frameborder="0" allowfullscreen></iframe></p>
+*Micking drums*
+
+***
+
+## *<span style="color:#6e9cbf;">Some pictures</span>*
+![Description]({{site.baseurl}}/images/setup_06.jpg)
+*Recording room - phase 0*
 
 ![Description]({{site.baseurl}}/images/setup_03.jpg)
-*Description*
+*Recording room - phase 1*
 
 ![Description]({{site.baseurl}}/images/setup_04.jpg)
-*Description*
+*Recording room - phase 2*
 
 ![Description]({{site.baseurl}}/images/setup_05.jpg)
-*Description*
+*Recording room - phase 3*
 
-![Description]({{site.baseurl}}/images/setup_06.jpg)
-*Description*
+***
