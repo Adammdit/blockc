@@ -9,7 +9,10 @@ tags:   Travel
 ***
 
 ## *<span style="color:#6e9cbf;">Videos</span>*
-<p><iframe src="/images/videos/westport_01.mp4" frameborder="0" allowfullscreen></iframe></p>
+
+<video width="100%" height="100%" controls>
+    <source src="/images/videos/westport_01.mp4" type="video/mp4">
+</video>
 *Neighborhood*
 
 ***

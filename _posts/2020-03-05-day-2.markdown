@@ -9,10 +9,14 @@ tags:   Drums
 ***
 
 ## *<span style="color:#6e9cbf;">Videos</span>*
-<p><iframe src="/images/videos/drums_01.mp4" frameborder="0" allowfullscreen></iframe></p>
+<video width="100%" height="100%" controls>
+    <source src="/images/videos/drums_01.mp4" type="video/mp4">
+</video>
 *Checkout girl*
 
-<p><iframe src="/images/videos/drums_02.mp4" frameborder="0" allowfullscreen></iframe></p>
+<video width="100%" height="100%" controls>
+    <source src="/images/videos/drums_02.mp4" type="video/mp4">
+</video>
 *360*
 
 ## *<span style="color:#6e9cbf;">Some pictures</span>*
