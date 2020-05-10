@@ -9,7 +9,9 @@ Our gear pictures, settings etc.
 
 ## *<span style="color:#6e9cbf;">Drums</span>*
 
-<p><iframe src="/images/videos/drums_03.mp4" frameborder="0" allowfullscreen></iframe></p>
+<video width="100%" height="100%" controls>
+    <source src="/images/videos/drums_03.mp4" type="video/mp4">
+</video>
 *Checking up the gear*
 
 ![]({{site.baseurl}}/images/drums_03.jpg)
