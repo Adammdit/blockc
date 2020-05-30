@@ -1,6 +1,6 @@
 # General settings
 title: BlockC
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.jpg'
 description: BlockC is a rock band based in Dublin Ireland.
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "https://blockc.ie" # The base hostname & protocol for your site, e.g. http://example.com
