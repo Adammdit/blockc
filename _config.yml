@@ -18,7 +18,7 @@ hero:
 
 # Contact us settings
 contact:
-  email: miodasso@email.com # Add your email for contant form
+  email: adam@blockc.ie # Add your email for contant form
   description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
 
 # NOTE
@@ -36,7 +36,7 @@ social:
 - {icon: "ion ion-logo-github", link: "https://github.com"}
 
 # Comment section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
 # Google analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
