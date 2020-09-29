@@ -2,7 +2,6 @@
 layout: page
 title: Discography
 permalink: /discography/
-image: '/images/discography.jpg'
 ---
 
 ## Heather Road
