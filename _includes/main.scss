@@ -103,3 +103,10 @@
 @import '4-layouts/tags-page';
 /* >>>>>>>>>>>>>> :: 4.5-Contact Page <<<<<<<<<<<<<<< */
 @import '4-layouts/contact-page';
+
+.is-in {
+  background-image: url('{{ site.baseurl }}/images/bckg6.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover; 
+}

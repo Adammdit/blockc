@@ -8,9 +8,7 @@ excerpt:
 tags: []
 ---
 
-Hi, we are Blockc band. We need to introduce the band here. We need better picture here.
+Hi, we are Blockc - rock band. 
 
 ![Time to think]({{site.baseurl}}/images/band.jpg)
 *Crazy jam*
-
-More text here & sample video ...
