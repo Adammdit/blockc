@@ -8,7 +8,7 @@ tags:   Travel
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
+## *<span style="color:$white;">Videos</span>*
 
 <video width="100%" height="100%" controls>
     <source src="/images/videos/westport_01.mp4" type="video/mp4">
@@ -17,7 +17,7 @@ tags:   Travel
 
 ***
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
+## *<span style="color:$white;">Some pictures</span>*
 ![First steps on the beach]({{site.baseurl}}/images/westport_07.jpg)
 *First window selfie*
 

@@ -4,14 +4,10 @@ title: Discography
 permalink: /discography/
 ---
 
-## Heather Road - EP
+## *Heather Road - EP (2020)*
+{: style="text-align: center"}
 {:refdef: style="text-align: center;"}
 ![]({{site.baseurl}}/images/album_cover_01.jpeg)
 {: refdef}
-*Heather Road*
-
-1. Mama Said
-2. Waiting to Come Down 
-3. Eye to Eye
-4. Never Sure
-5. Checkout Girl 
+Mama Said<br>Waiting to Come Down<br>Eye to Eye<br>Never Sure<br>Checkout Girl 
+{: style="text-align: center"}

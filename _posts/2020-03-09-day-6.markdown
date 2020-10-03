@@ -8,14 +8,14 @@ tags:   Vocals
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
+## *<span style="color:$white;">Videos</span>*
 
 <video width="100%" height="100%" controls>
     <source src="/images/videos/vocal_01.mp4" type="video/mp4">
 </video>
 *Checkout girl - sound check*
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
+## *<span style="color:$white;">Some pictures</span>*
 ![Description]({{site.baseurl}}/images/vocal_02.jpg)
 *Uncomfortable?*
 

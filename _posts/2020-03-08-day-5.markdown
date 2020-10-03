@@ -8,10 +8,10 @@ tags:   Piano
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
+## *<span style="color:#$white;">Videos</span>*
 
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
+## *<span style="color:$white;">Some pictures</span>*
 
 
 ***

@@ -8,7 +8,7 @@ url: "https://blockc.ie" # The base hostname & protocol for your site, e.g. http
 # Author settings
 author:
   name: BlockC
-  avatar: '/images/rights.png'
+  avatar: '/images/favicon.png'
 
 # Hero's settings
 hero:
