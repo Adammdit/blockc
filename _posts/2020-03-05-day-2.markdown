@@ -1,24 +1,17 @@
 ---
 layout: post
 title:  Westport - Day 2
-date:   2020-03-10 18:07:03 +0000
+date:   2020-03-11 18:07:03 +0000
 image:  '/images/drums_01.jpg'
 tags:   Drums
 ---
 
 ***
 
-## *<span style="color:$white;">Videos</span>*
-<video width="100%" height="100%" controls>
-    <source src="/images/videos/drums_01.mp4" type="video/mp4">
-</video>
-*Checkout girl*
+<div class="myDiv"><video controls><source src="/images/videos/drums_01.mp4" type="video/mp4"></video>Checkout girl</div>
+<br />
 
-<video width="100%" height="100%" controls>
-    <source src="/images/videos/drums_02.mp4" type="video/mp4">
-</video>
-*360*
+<div class="myDiv"><video controls><source src="/images/videos/drums_02.mp4" type="video/mp4"></video>360</div>
 
-## *<span style="color:$white;">Some pictures</span>*
 
 ***

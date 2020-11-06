@@ -30,8 +30,8 @@ contact:
 social:
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/281666003096575"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/blockcband"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=o85-aSkFKb8"}
 
+#- {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=o85-aSkFKb8"}
 #- {icon: "ion-logo-twitter", link: "https://twitter.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}

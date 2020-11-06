@@ -8,9 +8,6 @@ tags:   Ideas
 
 ***
 
-<video width="100%" height="100%" controls>
-    <source src="/images/videos/andy_01.mp4" type="video/mp4">
-</video>
-*Nothing Ever Goes My Way, clue is in the name 😂 It's about a relationship that broke down*
+<div class="myDiv"><video controls><source src="/images/videos/andy_01.mp4" type="video/mp4"></video>Nothing Ever Goes My Way, clue is in the name 😂 It's about a relationship that broke down</div>
 
 ***

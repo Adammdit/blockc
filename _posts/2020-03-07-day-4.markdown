@@ -1,28 +1,22 @@
 ---
 layout: post
 title:  Westport - Day 4
-date:   2020-03-10 16:07:03 +0000
+date:   2020-03-13 16:07:03 +0000
 image:  '/images/guitar_01.jpg'
 tags:   Guitars
 ---
 
 ***
 
-## *<span style="color:$white;">Videos</span>*
+<div class="myDiv"><img class="myImg" src="/images/guitar_02.jpg"/>Jason's turn</div>
+<br />
 
-<video width="100%" height="100%" controls>
-    <source src="/images/videos/guitar_01.mp4" type="video/mp4">
-</video>
-*Crazy jam*
+<div class="myDiv"><img class="myImg" src="/images/guitar_03.jpg"/>Andy is not so sure anymore</div>
+<br />
 
-## *<span style="color:$white;">Some pictures</span>*
-![Description]({{site.baseurl}}/images/guitar_02.jpg)
-*Jason's turn*
+<div class="myDiv"><img class="myImg" src="/images/guitar_04.jpg"/>Interesting cooling solution...</div>
+<br />
 
-![Description]({{site.baseurl}}/images/guitar_03.jpg)
-*Andy is not so sure anymore*
-
-![Description]({{site.baseurl}}/images/guitar_04.jpg)
-*Interesting cooling solution...*
+<div class="myDiv"><video controls><source src="/images/videos/guitar_01.mp4" type="video/mp4"></video>Crazy jam</div>
 
 ***
