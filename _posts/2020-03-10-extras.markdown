@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Random from recording
+date:   2020-11-14 13:10:55 +0000
+image:  '/images/extra.jpg'
+tags:   Random
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/extra_01.jpeg"/>Tracking acoustics</div>
+<br />
+<div class="myDiv"><img class="myImg" src="/images/extra_02.jpeg"/>Tracking bass</div>
+<br />
+<div class="myDiv"><img class="myImg" src="/images/extra_03.jpeg"/>Sea sightseeing</div>
+<br />
+<div class="myDiv"><img class="myImg" src="/images/extra_04.jpeg"/>Setting up drums</div>
+<br />
+<div class="myDiv"><img class="myImg" src="/images/extra_05.jpeg"/>Paul's rehearsal garage</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/rehersal.mp4" type="video/mp4"></video>Simon plays keyboard</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/extra_01.mp4" type="video/mp4"></video>Checking room acoustics</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/extra_03.mp4" type="video/mp4"></video>Tracking acoustic Never Sure</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/extra_04.mp4" type="video/mp4"></video>Tracking acoustic Checkout Girl</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/extra_05.mp4" type="video/mp4"></video>Micing drums</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/extra_06.mp4" type="video/mp4"></video>More acoustic tracking from Jason</div>
+
+***

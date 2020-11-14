@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Recording Lead Guitar
+date:   2020-11-14 12:14:55 +0000
+image:  '/images/lead.jpeg'
+tags:   Tracking Guitar
+---
+
+***
+
+<div class="myDiv"><video controls><source src="/images/videos/lead_01.mp4" type="video/mp4"></video>Never Sure</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/lead_02.mp4" type="video/mp4"></video>Take number ...</div>
+<br />
+<div class="myDiv"><video controls><source src="/images/videos/lead_04.mp4" type="video/mp4"></video>Checkout Girl</div>
+
+***
