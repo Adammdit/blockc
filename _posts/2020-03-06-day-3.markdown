@@ -3,7 +3,7 @@ layout: post
 title:  Westport - Day 3
 date:   2020-03-12 17:07:03 +0000
 image:  '/images/bass_04.jpg'
-tags:   Bass
+tags:   bass tracking
 ---
 
 ***

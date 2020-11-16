@@ -3,7 +3,7 @@ layout: post
 title:  Westport - Day 4
 date:   2020-03-13 16:07:03 +0000
 image:  '/images/guitar_01.jpg'
-tags:   Guitars
+tags:   guitar jam tracking
 ---
 
 ***

@@ -3,7 +3,7 @@ layout: post
 title:  Westport - Day 6
 date:   2020-03-15 14:07:03 +0000
 image:  '/images/gear.jpg'
-tags:   Vocals
+tags:   vocals acoustic
 ---
 
 ***

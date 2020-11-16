@@ -3,7 +3,7 @@ layout: post
 title:  Welcome to Westport
 date:   2020-03-09 17:05:55 +0000
 image:  '/images/westport_02.jpg'
-tags:   Travel
+tags:   travel
 ---
 
 ***

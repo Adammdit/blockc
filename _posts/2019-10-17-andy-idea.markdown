@@ -3,7 +3,7 @@ layout: post
 title:  Andy's idea
 date:   2019-10-17 10:07:00 +0000
 image:  '/images/idea_01.jpg'
-tags:   Ideas
+tags:   idea acoustic piano
 ---
 
 ***

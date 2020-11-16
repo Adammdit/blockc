@@ -3,7 +3,7 @@ layout: post
 title:  Westport - Day 1
 date:   2020-03-10 19:07:03 +0000
 image:  '/images/setup_01.jpg'
-tags:   Setup
+tags:   setup drums micing
 ---
 
 ***

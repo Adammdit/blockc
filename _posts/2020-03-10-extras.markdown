@@ -3,7 +3,7 @@ layout: post
 title:  Random from recording
 date:   2020-11-14 13:10:55 +0000
 image:  '/images/extra.jpg'
-tags:   Random
+tags:   drums acoustic rehearsal 
 ---
 
 ***
