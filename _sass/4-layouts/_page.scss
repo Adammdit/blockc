@@ -55,3 +55,18 @@
     }
   }
 }
+
+.shop-box {
+  width: 266px;
+  margin: 0 auto; 
+}
+
+.shop-box iframe {
+  width: 100%;  
+}
+
+@media (min-width: 506) {
+  .shop-box {
+    width: 506px;
+  }
+}
