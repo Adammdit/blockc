@@ -5,18 +5,18 @@ permalink: /gear/
 image: '/images/gear.jpg'
 ---
 
-Our gear pictures, settings etc.
 
-## *<span style="color:#6e9cbf;">Drums</span>*
 
-<p><iframe src="/images/videos/drums_03.mp4" frameborder="0" allowfullscreen></iframe></p>
-*Checking up the gear*
+<div class="myDiv"><img class="myImg" src="/images/drums_03.jpg"/>Drums</div>
+<br />
 
-![]({{site.baseurl}}/images/drums_03.jpg)
-*Drums*
+<div class="myDiv"><img class="myImg" src="/images/guitar_05.jpg"/>Kev's collection</div>
+<br />
 
-## *<span style="color:#6e9cbf;">Guitars</span>*
-![]({{site.baseurl}}/images/guitar_05.jpg)
-*Kev's collection*
+<div class="myDiv"><img class="myImg" src="/images/bass_03.jpg"/>Adam's basses</div>
+<br />
 
-*** 
+<div class="myDiv"><img class="myImg" src="/images/guitar_06.jpg"/>Adam's guitars</div>
+<br />
+
+<div class="myDiv"><video controls><source src="/images/videos/drums_03.mp4" type="video/mp4"></video>Checking up the gear</div>

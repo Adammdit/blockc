@@ -1,17 +1,13 @@
 ---
 layout: post
 title:  Westport - Day 5
-date:   2020-03-08
+date:   2020-03-14 15:07:03 +0000
 image:  '/images/piano_01.jpg'
-tags:   Piano
+tags:   piano
 ---
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
-
-
-## *<span style="color:#6e9cbf;">Some pictures</span>*
 
 
 ***

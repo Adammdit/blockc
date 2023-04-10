@@ -1,19 +1,19 @@
 ---
 layout: post
 title:  Westport - Day 3
-date:   2020-03-06
-image:  '/images/bass_01.jpg'
-tags:   Bass
+date:   2020-03-12 17:07:03 +0000
+image:  '/images/bass_04.jpg'
+tags:   bass tracking
 ---
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
-<p><iframe src="/images/videos/bass_01.mp4" frameborder="0" allowfullscreen></iframe></p>
-*Angels and Devils - bass tracking*
+<div class="myDiv"><img class="myImg" src="/images/bass_02.jpg"/>A bass take</div>
+<br />
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
-![Description]({{site.baseurl}}/images/bass_02.jpg)
-*Some bass take*
+<div class="myDiv"><img class="myImg" src="/images/bass_01.jpg"/>Black beauties</div>
+<br />
+
+<div class="myDiv"><video controls><source src="/images/videos/bass_01.mp4" type="video/mp4"></video>Angels and Devils - bass tracking</div>
 
 ***

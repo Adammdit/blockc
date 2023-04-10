@@ -1,36 +1,31 @@
 ---
 layout: post
 title:  Welcome to Westport
-date:   2020-03-04 17:05:55 +0000
+date:   2020-03-09 17:05:55 +0000
 image:  '/images/westport_02.jpg'
-tags:   Travel
+tags:   travel
 ---
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
-<p><iframe src="/images/videos/westport_01.mp4" frameborder="0" allowfullscreen></iframe></p>
-*Neighborhood*
+<div class="myDiv"><img class="myImg" src="/images/westport_07.jpg"/>First window selfie</div>
+<br />
 
-***
+<div class="myDiv"><img class="myImg" src="/images/westport_08.jpg"/>More magical moments...</div>
+<br />
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
-![First steps on the beach]({{site.baseurl}}/images/westport_07.jpg)
-*First window selfie*
+<div class="myDiv"><img class="myImg" src="/images/westport_03.jpg"/>First trip to the beach</div>
+<br />
 
-![First steps on the beach]({{site.baseurl}}/images/westport_08.jpg)
-*More magical moments...*
+<div class="myDiv"><img class="myImg" src="/images/westport_04.jpg"/>Clew Bay</div>
+<br />
 
-![First steps on the beach]({{site.baseurl}}/images/westport_03.jpg)
-*First trip to the beach*
+<div class="myDiv"><img class="myImg" src="/images/westport_05.jpg"/>Too many sharks to swim</div>
+<br />
 
-![Description]({{site.baseurl}}/images/westport_04.jpg)
-*Clew Bay*
+<div class="myDiv"><img class="myImg" src="/images/westport_06.jpg"/>Some abandoned property</div>
+<br />
 
-![Description]({{site.baseurl}}/images/westport_05.jpg)
-*Too many sharks to swim*
-
-![Description]({{site.baseurl}}/images/westport_06.jpg)
-*Some abandoned property*
+<div class="myDiv"><video controls><source src="/images/videos/westport_01.mp4" type="video/mp4"></video>Neighborhood</div>
 
 ***

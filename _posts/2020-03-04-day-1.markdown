@@ -1,31 +1,25 @@
 ---
 layout: post
 title:  Westport - Day 1
-date:   2020-03-04 19:07:03 +0000
+date:   2020-03-10 19:07:03 +0000
 image:  '/images/setup_01.jpg'
-tags:   Setup
+tags:   setup drums micing
 ---
 
 ***
 
-## *<span style="color:#6e9cbf;">Videos</span>*
+<div class="myDiv"><img class="myImg" src="/images/setup_06.jpg"/>Recording room - phase 0</div>
+<br />
 
-<p><iframe src="/images/videos/setup_01.mp4" frameborder="0" allowfullscreen></iframe></p>
-*Micking drums*
+<div class="myDiv"><img class="myImg" src="/images/setup_03.jpg"/>Recording room - phase 1</div>
+<br />
 
-***
+<div class="myDiv"><img class="myImg" src="/images/setup_04.jpg"/>Recording room - phase 2</div>
+<br />
 
-## *<span style="color:#6e9cbf;">Some pictures</span>*
-![Description]({{site.baseurl}}/images/setup_06.jpg)
-*Recording room - phase 0*
+<div class="myDiv"><img class="myImg" src="/images/setup_05.jpg"/>Recording room - phase 3</div>
+<br />
 
-![Description]({{site.baseurl}}/images/setup_03.jpg)
-*Recording room - phase 1*
-
-![Description]({{site.baseurl}}/images/setup_04.jpg)
-*Recording room - phase 2*
-
-![Description]({{site.baseurl}}/images/setup_05.jpg)
-*Recording room - phase 3*
+<div class="myDiv"><video controls><source src="/images/videos/setup_01.mp4" type="video/mp4"></video>Micking drums</div>
 
 ***

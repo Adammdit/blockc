@@ -46,6 +46,7 @@
 }
 
 .page__content {
+  background-color: rgba(20, 20, 20, 0.9);
   color: rgba($text-color, .6);
   a {
     &:hover {
@@ -53,4 +54,13 @@
       text-decoration: underline;
     }
   }
+}
+
+.shop-box {
+  width: 266px;
+  margin: 0 auto; 
+}
+
+.shop-box iframe {
+  width: 100%;  
 }

@@ -1,67 +1,52 @@
-#-------------------------------
-# General Site Settings
+# General settings
 title: BlockC
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/logo.jpg'
 description: BlockC is a rock band based in Dublin Ireland.
 baseurl: "" # The subpath of your site, e.g. /blog
-url: "" # The base hostname & protocol for your site, e.g. http://example.com
+url: "https://blockc.ie" # The base hostname & protocol for your site, e.g. http://example.com
 
-
-#-------------------------------
-# Author Settings
+# Author settings
 author:
   name: BlockC
-  avatar: '/images/images.png'
+  avatar: '/images/favicon.png'
 
-
-#-------------------------------
-# Hero Settings
+# Hero's settings
 hero:
-  title: #BlockC
-  description: #It's all about fun, so play music :)
-  image: '/images/album_cover_01.jpeg'
+  title: 
+  description: #It's all about fun, so let's play music :)
+  image: '/images/ep.jpg'
 
-
-#-------------------------------
-# Contact Settings
+# Contact us settings
 contact:
   email: info@blockc.ie # Add your email for contant form
-  description: The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time! # Add a description of your form
+  description: If you have questions, send us an email.
 
 # NOTE
-# Aditu theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+# This theme comes with a contact form built-in. You can use this form with Formspree service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
-#-------------------------------
 # Footer section
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", link: "https://instagram.com"}
-- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-- {icon: "ion ion-logo-github", link: "https://github.com"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/281666003096575"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/blockcband"}
 
+#- {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=o85-aSkFKb8"}
+#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
+#- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
+#- {icon: "ion ion-logo-github", link: "https://github.com"}
 
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+# Comment section (Disqus)
+#disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
 
-
-#-------------------------------
-# Google Analytics
+# Google analytics
 google-analytics: # Add your identifier. For example UA-99631805-1.
 
-
-#-------------------------------
 # Newsletter
 mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
-
-#-------------------------------
 # Build settings
 markdown: kramdown
 permalink: pretty
