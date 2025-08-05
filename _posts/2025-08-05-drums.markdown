@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stranger to Myself - Drums
-date:   2025-08-05 10:04:16 +0000
+date:   2025-08-05 12:04:16 +0000
 image:  '/images/stranger-drums/stranger-drums.jpg'
 tags:   setup drums
 ---

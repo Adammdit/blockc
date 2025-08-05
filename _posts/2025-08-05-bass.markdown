@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stranger to Myself - Bass
-date:   2025-08-05 09:04:16 +0000
+date:   2025-08-05 13:04:16 +0000
 image:  '/images/stranger-bass/stranger-bass.jpg'
 tags:   setup bass
 ---

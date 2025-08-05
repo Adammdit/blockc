@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Stranger to Myself - Percussion
-date:   2025-08-05 07:04:16 +0000
+date:   2025-08-05 15:04:16 +0000
 image:  '/images/stranger-percussion/stranger-percussion.jpg'
 tags:   percussion
 ---
