@@ -1,0 +1,28 @@
+---
+layout: post
+title:  Stranger to Myself - Drums
+date:   2025-08-05 10:04:16 +0000
+image:  '/images/stranger-drums/stranger-drums.jpg'
+tags:   setup drums
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-001.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-002.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-003.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-004.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-005.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-drums/stranger-drums-006.jpg"/></div>
+
+***

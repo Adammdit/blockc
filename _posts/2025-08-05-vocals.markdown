@@ -1,0 +1,37 @@
+---
+layout: post
+title:  Stranger to Myself - Vocals
+date:   2025-08-05 06:04:16 +0000
+image:  '/images/stranger-vocals/stranger-vocals.jpg'
+tags:   vocals
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-001.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-002.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-003.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-004.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-005.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-006.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-007.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-008.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-vocals/stranger-vocals-009.jpg"/></div>
+
+***

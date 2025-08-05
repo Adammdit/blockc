@@ -1,0 +1,64 @@
+---
+layout: post
+title:  Stranger to Myself - Setup
+date:   2025-08-05 11:04:16 +0000
+image:  '/images/setup-stranger/setup-stranger.jpg'
+tags:   setup drums micing
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-001.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-002.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-003.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-004.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-005.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-006.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-007.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-008.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-009.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-010.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-011.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-012.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-013.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-014.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-015.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-016.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-017.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/setup-stranger/setup-stranger-018.jpg"/></div>
+
+***

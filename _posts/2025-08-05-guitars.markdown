@@ -1,0 +1,55 @@
+---
+layout: post
+title:  Stranger to Myself - Guitars
+date:   2025-08-05 08:04:16 +0000
+image:  '/images/stranger-guitars/stranger-guitars.jpg'
+tags:   setup guitar
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-001.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-002.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-003.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-004.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-005.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-006.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-007.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-008.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-009.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-010.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-011.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-012.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-013.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-014.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-guitars/stranger-guitars-015.jpg"/></div>
+
+***

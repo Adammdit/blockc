@@ -1,0 +1,28 @@
+---
+layout: post
+title:  Stranger to Myself - Bass
+date:   2025-08-05 09:04:16 +0000
+image:  '/images/stranger-bass/stranger-bass.jpg'
+tags:   setup bass
+---
+
+***
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-001.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-002.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-003.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-004.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-005.jpg"/></div>
+<br />
+
+<div class="myDiv"><img class="myImg" src="/images/stranger-bass/stranger-bass-006.jpg"/></div>
+
+***
