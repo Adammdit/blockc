@@ -4,30 +4,28 @@ title: Discography
 permalink: /discography/
 ---
 
-### *Heather Road - EP (2020)*
+### *BlockC - Heather Road EP (2020)*
 
 <div class="discRow">
   <div class="discCol">
-    <img src="/images/F-Cover.jpg">
+    <img style="border-radius:12px" src="/images/F-Cover.jpg">
   </div>
   <div class="discCol">
-    <img src="/images/B-Cover.jpg">
+    <img style="border-radius:12px" src="/images/B-Cover.jpg">
   </div>
 </div> 
 
-<p align="center"><iframe src="https://open.spotify.com/embed/album/1TXvkqb6gidS0ZknepG2CQ" width="100%" height="240" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></p>
-<!--
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1TXvkqb6gidS0ZknepG2CQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-</iframe>
--->
-### *Stranger to Myself - (2025)*
+<p align="center"><iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1TXvkqb6gidS0ZknepG2CQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+</iframe></p>
+
+### *BlockC - Stranger to Myself (2025)*
 
 <div class="discRow">
   <div class="discCol">
-    <img src="/images/F-cover-stranger.jpg">
+    <img style="border-radius:12px" src="/images/F-cover-stranger.jpg">
   </div>
   <div class="discCol">
-    <img src="/images/B-cover-stranger.jpg">
+    <img style="border-radius:12px" src="/images/B-cover-stranger.jpg">
   </div>
 </div> 
 <!--

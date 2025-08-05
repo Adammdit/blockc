@@ -219,3 +219,24 @@
     color: rgba($white, .8);
   }
 }
+
+/* Main page */
+.columnMain {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.rowMain::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 576px) {
+  .columnMain {
+    width: 100%;
+  }
+}
