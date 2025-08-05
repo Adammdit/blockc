@@ -30,9 +30,9 @@ contact:
 social:
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/281666003096575"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/blockcband"}
+- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@blockcbandofficial"}
+#- {icon: "bandage-sharp", link: "https://x.com/blockcbandire"}
 
-#- {icon: "ion-logo-youtube", link: "https://www.youtube.com/watch?v=o85-aSkFKb8"}
-#- {icon: "ion-logo-twitter", link: "https://twitter.com"}
 #- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 #- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
 #- {icon: "ion ion-logo-github", link: "https://github.com"}
