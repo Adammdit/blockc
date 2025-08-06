@@ -240,3 +240,17 @@
     width: 100%;
   }
 }
+
+/* Shop page */
+.columnShop {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 576px) {
+  .columnShop {
+    width: 100%;
+  }
+}
