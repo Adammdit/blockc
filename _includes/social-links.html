@@ -3,7 +3,10 @@
   <ul class="social__list list-reset">
     {% for social in site.social %}
     <li class="social__item">
-      <a class="social__link" href="{{social.link}}"><i class="ion {{social.icon}}"></i></a>
+      <div class="iconCol swing">
+        <a class="social__link" href="{{social.link}}"><img class="mylink" src="{{social.icon}}"></a>
+      </div>
+      
     </li>
     {% endfor %}
   </ul>

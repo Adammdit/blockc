@@ -28,14 +28,14 @@ contact:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com
 social:
-- {icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/281666003096575"}
-- {icon: "ion-logo-instagram", link: "https://www.instagram.com/blockcband"}
-- {icon: "ion-logo-youtube", link: "https://www.youtube.com/@blockcbandofficial"}
-#- {icon: "bandage-sharp", link: "https://x.com/blockcbandire"}
-
-#- {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-#- {icon: "ion-logo-pinterest", link: "https://pinterest.com"}
-#- {icon: "ion ion-logo-github", link: "https://github.com"}
+- {icon: "/images/icons/facebook_s.png", link: "https://www.facebook.com/groups/281666003096575"}
+- {icon: "/images/icons/instagram_s.png", link: "https://www.instagram.com/blockcband"}
+- {icon: "/images/icons/youtube_s.png", link: "https://www.youtube.com/@blockcbandofficial"}
+- {icon: "/images/icons/bandcamp_s.png", link: "https://blockc.bandcamp.com/album/stranger-to-myself"}
+- {icon: "/images/icons/x_s.png", link: "https://x.com/blockcbandire"}
+- {icon: "/images/icons/spotify_s.png", link: "https://open.spotify.com/artist/6RvkLqNbmTyIjG8hpolct2?si=tVEMYn3xQb6OdPTak5tNfA"}
+- {icon: "/images/icons/breakingtunes_s.png", link: "https://www.breakingtunes.com/blockc"}
+- {icon: "/images/icons/linktree_s.png", link: "https://linktr.ee/blockcband"}
 
 # Comment section (Disqus)
 #disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
